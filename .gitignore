@@ -1,0 +1,9 @@
+# vscode
+.vscode/
+
+# CMake
+build/
+
+# doc
+doc*/
+
